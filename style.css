@@ -25,7 +25,7 @@ body
 .box
 {
     position: relative;
-    right: 125px;
+    right: 130px;
     width: 200px;
     height: 200px;
     transform-style: preserve-3d;
